@@ -1,0 +1,29 @@
+c:\users\ce\documents\visual studio 2013\Projects\FileReader_BigData\FileReader_BigData\bin\Debug\FileReader_BigData.exe.config
+c:\users\ce\documents\visual studio 2013\Projects\FileReader_BigData\FileReader_BigData\bin\Debug\FileReader_BigData.exe
+c:\users\ce\documents\visual studio 2013\Projects\FileReader_BigData\FileReader_BigData\bin\Debug\FileReader_BigData.pdb
+c:\users\ce\documents\visual studio 2013\Projects\FileReader_BigData\FileReader_BigData\obj\Debug\FileReader_BigData.csprojResolveAssemblyReference.cache
+c:\users\ce\documents\visual studio 2013\Projects\FileReader_BigData\FileReader_BigData\obj\Debug\FileReader_BigData.Properties.Resources.resources
+c:\users\ce\documents\visual studio 2013\Projects\FileReader_BigData\FileReader_BigData\obj\Debug\FileReader_BigData.csproj.GenerateResource.Cache
+c:\users\ce\documents\visual studio 2013\Projects\FileReader_BigData\FileReader_BigData\obj\Debug\FileReader_BigData.exe
+c:\users\ce\documents\visual studio 2013\Projects\FileReader_BigData\FileReader_BigData\obj\Debug\FileReader_BigData.pdb
+c:\users\ce\documents\visual studio 2013\Projects\FileReader_BigData\FileReader_BigData\obj\Debug\FileReader_BigData.BigDataReader.resources
+c:\users\ce\documents\visual studio 2013\Projects\FileReader_BigData\FileReader_BigData\bin\Debug\VIBlend.WinForms.Controls.dll
+c:\users\ce\documents\visual studio 2013\Projects\FileReader_BigData\FileReader_BigData\bin\Debug\VIBlend.WinForms.Utilities.dll
+c:\users\ce\documents\visual studio 2013\Projects\FileReader_BigData\FileReader_BigData\bin\Debug\VIBlend.WinForms.Controls.pdb
+c:\users\ce\documents\visual studio 2013\Projects\FileReader_BigData\FileReader_BigData\bin\Debug\VIBlend.WinForms.Controls.xml
+c:\users\ce\documents\visual studio 2013\Projects\FileReader_BigData\FileReader_BigData\bin\Debug\VIBlend.WinForms.Utilities.pdb
+c:\users\ce\documents\visual studio 2013\Projects\FileReader_BigData\FileReader_BigData\bin\Debug\VIBlend.WinForms.Utilities.xml
+C:\Users\ahmet.acikgoz\Desktop\FileReader_BigData-master\FileReader_BigData\bin\Debug\FileReader_BigData.exe.config
+C:\Users\ahmet.acikgoz\Desktop\FileReader_BigData-master\FileReader_BigData\obj\Debug\FileReader_BigData.exe
+C:\Users\ahmet.acikgoz\Desktop\FileReader_BigData-master\FileReader_BigData\obj\Debug\FileReader_BigData.pdb
+C:\Users\ahmet.acikgoz\Desktop\FileReader_BigData-master\FileReader_BigData\bin\Debug\FileReader_BigData.exe
+C:\Users\ahmet.acikgoz\Desktop\FileReader_BigData-master\FileReader_BigData\bin\Debug\FileReader_BigData.pdb
+C:\Users\ahmet.acikgoz\Desktop\FileReader_BigData-master\FileReader_BigData\bin\Debug\VIBlend.WinForms.Utilities.dll
+C:\Users\ahmet.acikgoz\Desktop\FileReader_BigData-master\FileReader_BigData\bin\Debug\VIBlend.WinForms.Controls.pdb
+C:\Users\ahmet.acikgoz\Desktop\FileReader_BigData-master\FileReader_BigData\bin\Debug\VIBlend.WinForms.Controls.xml
+C:\Users\ahmet.acikgoz\Desktop\FileReader_BigData-master\FileReader_BigData\bin\Debug\VIBlend.WinForms.Utilities.pdb
+C:\Users\ahmet.acikgoz\Desktop\FileReader_BigData-master\FileReader_BigData\bin\Debug\VIBlend.WinForms.Utilities.xml
+C:\Users\ahmet.acikgoz\Desktop\FileReader_BigData-master\FileReader_BigData\obj\Debug\FileReader_BigData.csprojResolveAssemblyReference.cache
+C:\Users\ahmet.acikgoz\Desktop\FileReader_BigData-master\FileReader_BigData\obj\Debug\FileReader_BigData.BigDataReader.resources
+C:\Users\ahmet.acikgoz\Desktop\FileReader_BigData-master\FileReader_BigData\obj\Debug\FileReader_BigData.Properties.Resources.resources
+C:\Users\ahmet.acikgoz\Desktop\FileReader_BigData-master\FileReader_BigData\obj\Debug\FileReader_BigData.csproj.GenerateResource.Cache
